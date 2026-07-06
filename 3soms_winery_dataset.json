@@ -1,0 +1,1545 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated_date": "2026-07-06",
+    "business_context": "3 SOMS AI Wine Advisor Knowledge Base",
+    "total_wineries": 19,
+    "tier": "1 - Anchor Wineries",
+    "note": "These are the reference point wines that define the 3 SOMS thesis: single-vineyard, old vines, boutique scale, undervalued",
+    "user_tasting_status": "All wines personally tasted by founder with master sommeliers in Greece (2023-2024)"
+  },
+  "wineries": [
+    {
+      "id": "karamolegos_001",
+      "name": "Artemis Karamolegos",
+      "region": "Santorini",
+      "sub_region": "Exo Gonia, Megalochori, Pyrgos",
+      "country": "Greece",
+      "founded": 2004,
+      "family_winemaking_since": 1952,
+      "website": "https://www.artemiskaramolegos-winery.com",
+      "description": "One of the most dynamic and rapidly evolving wineries on Santorini. Third-largest winery by volume on the island, but quality-focused with single-vineyard expressions from 150+ year old vines. Founded by Artemis Karamolegos, inspired by his grandfather who started making wine in the 1950s.",
+      "philosophy": "Terroir-driven winemaking focused on expressing the diverse character of Assyrtiko across Santorini's unique volcanic parcels. Minimal intervention, single-vineyard focus, old vine preservation.",
+      "winemaker": "Lefteris Anagnostou",
+      "vineyard_info": {
+        "total_hectares_owned": 3,
+        "total_hectares_contracted": 5,
+        "vineyard_locations": ["Pyrgos", "Megalochori", "Exo Gonia", "Akrotiri", "Fira"],
+        "vine_age_range": "50-150+ years",
+        "soil_type": "Volcanic",
+        "soil_description": "Pumice-rich volcanic ash, basalt, granite, obsidian. High silica oxides and metals create acidic/low pH soils that amplify mineral/marine/saline character.",
+        "unique_terroir_note": "Santorini's volcanic explosion in 1613 BCE created hostile soils immune to Phylloxera—vines are ungrafted, some over 150 years old. Roots can exceed 20 meters seeking water."
+      },
+      "production_style": {
+        "approach": "Old-world, single-vineyard focus with modern precision",
+        "vineyard_training": "Traditional kouloura (basket) training to protect from wind and retain moisture",
+        "harvesting": "Hand-harvest, selective picking",
+        "innovations": "First orange wine on Santorini, experimenting with custom cement tanks"
+      },
+      "visit_info": {
+        "restaurant": "Aroma Avlis Food & Wine",
+        "experiences": ["Wine tastings", "Cooking classes", "Vineyard tours"],
+        "contact": "reservations@artemiskaramolegos-winery.com",
+        "phone": "+30 22860 33395"
+      },
+      "wines": [
+        {
+          "wine_id": "karamolegos_papas",
+          "name": "Papas",
+          "collection": "Single Vineyards",
+          "type": "White",
+          "varietal": "Assyrtiko",
+          "varietal_percentage": 100,
+          "classification": "Single Vineyard, PDO Santorini",
+          "vineyard_name": "Papas",
+          "vineyard_location": "Megalochori, below Pyrgos village",
+          "vineyard_age_years": 150,
+          "production_details": {
+            "harvest_method": "Hand-harvest",
+            "pre_fermentation": "Short cold soak",
+            "fermentation": "Controlled temperature in stainless steel",
+            "lees_aging_months": 22,
+            "vessel": "Stainless steel tank",
+            "oak_aging_months": 2,
+            "oak_type": "Large oak tank (minimal oak impact)",
+            "bottle_aging_months": 12,
+            "total_aging_months": 36
+          },
+          "technical_specs": {
+            "alcohol_percentage": 13.8,
+            "acidity": "High (volcanic terroir)",
+            "residual_sugar": "Dry"
+          },
+          "tasting_profile": {
+            "color": "Gold with green highlights",
+            "aroma": ["Iodine", "Sea breeze", "Flint", "White peach", "Pear", "Chamomile", "Thyme", "Honey", "Minerals", "Nuts"],
+            "palate": ["Intense minerality", "Saline", "Gunpowder/smoky", "Sharp acidity", "Nerve", "Electric"],
+            "body": "Medium-plus",
+            "finish": "Extremely long, mineral-driven, 'lasts forever'",
+            "development_notes": "Develops petrol complexity with bottle age (5+ years). Give 30 minutes to breathe before enjoying."
+          },
+          "tasting_notes_detailed": "Santorini's most sophisticated expression. Complex nose with citrus, peach, pear, herbs (chamomile, thyme), nuts, honey, and intense minerals. Salty, mineral, wonderfully smoky like gunpowder on the palate. Sharp acidity with nerve and an aftertaste that lasts 'forever'. One of the wines that can evolve for at least a decade. Captures the essence of 150-year-old vines on volcanic terroir.",
+          "critic_scores": {
+            "jancis_robinson": "Positively vibrating with energy. 1350 bottles made.",
+            "wineanorak": "94/100 - Powerful and striking, lashed with salinity"
+          },
+          "price": {
+            "eur": 93,
+            "usd": 131,
+            "source": "Wine-Searcher, House of Wine Greece"
+          },
+          "production_volume_bottles": 1350,
+          "availability": "Very limited, single vineyard micro-production",
+          "food_pairings": ["Raw oysters", "Grilled seafood", "White fish", "Mediterranean cuisine"],
+          "aging_potential": {
+            "drink_now_until": "2035+",
+            "peak_drinking_window": "5-10 years from vintage",
+            "can_age_years": 10
+          },
+          "user_experience": {
+            "visits": ["2018", "2022"],
+            "reaction": "The best white wine I had tried up to that point. Notes of petrol, citrus.",
+            "significance": "The wine that introduced me to the idea of single vineyards. This defined the category.",
+            "insight": "Assyrtiko can feel harsh to newcomers—harsh in the sense of a natural wine. The single vineyards are a great entry point for their smoothness, richness and delicacy.",
+            "thesis_fit": "Peak expression of the 3 SOMS thesis: 150-year vines, single vineyard, volcanic terroir, €100 price point vs €150-240 for equivalent Puligny-Montrachet Premier Cru."
+          }
+        },
+        {
+          "wine_id": "karamolegos_pyritis",
+          "name": "Pyritis",
+          "collection": "Fine Selection",
+          "type": "White",
+          "varietal": "Assyrtiko",
+          "varietal_percentage": 100,
+          "vineyard_age_years": 120,
+          "vineyard_locations": ["Pyrgos", "Megalochori"],
+          "production_details": {
+            "fermentation": "Native yeast in stainless steel",
+            "lees_aging_months": 10,
+            "batonnage": "Yes"
+          },
+          "tasting_profile": {
+            "aroma": ["Flinty minerality", "Lemon pith", "Quince", "Mirabelle plum", "Anise"],
+            "palate": ["Vibrant", "Saline", "Structural", "Singular"],
+            "body": "Medium-plus",
+            "finish": "Chalky, grippy"
+          },
+          "critic_scores": {
+            "wineanorak": "94/100 - Striking and vibrant, positively ringing with flinty minerality"
+          },
+          "production_volume_bottles": 7900,
+          "price": {
+            "eur_estimated": 45,
+            "note": "More accessible entry to serious Karamolegos Assyrtiko"
+          }
+        }
+      ],
+      "other_notable_wines": ["Terra Nera (entry level)", "Santorini (80-year vines)", "Nykteri", "Vinsanto", "Ftelos (single vineyard)", "Louroi Platia (single vineyard)", "Kamaras (single vineyard)"],
+      "user_other_tastings": {
+        "ftelos": "Tried. Another excellent single vineyard expression.",
+        "34": "The Aidani and Athiri add fruitiness that tames the strong character of Assyrtiko. Great for those finding pure Assyrtiko too intense.",
+        "pyritis": "Tried. Excellent 120-year-old vine expression.",
+        "northern_greece_malagousia": "Tried a fantastic Malagousia blend from their winery in the north of Greece."
+      }
+    },
+    {
+      "id": "sigalas_001",
+      "name": "Domaine Sigalas",
+      "region": "Santorini",
+      "sub_region": "Oia, Imerovigli",
+      "country": "Greece",
+      "founded": 1991,
+      "website": "https://sigalas-wine.com",
+      "description": "Pioneering excellence in Santorini winemaking. Founded by Paris Sigalas, a mathematics professor who professionalized the family winery. First to produce single-vineyard Assyrtiko (Kavalieros, 2011). Known for meticulous vineyard work, profound respect for old vines, and uncompromising pursuit of terroir expression.",
+      "philosophy": "Never content with preserving heritage—pushing boundaries through meticulous vineyard work and terroir expression. Single-vineyard, minimal intervention, old vine focus.",
+      "recent_news": {
+        "date": "2026-06-26",
+        "event": "Acquired by Kir-Yianni, uniting three of Greece's most prestigious wine regions"
+      },
+      "awards": [
+        "Robert Parker Wine Advocate: 93 points (Santorini Barrel 2019)",
+        "TEXSOM 2021: Kavalieros recognition",
+        "2021 Sommeliers Choice Awards: 91 points"
+      ],
+      "vineyard_info": {
+        "flagship_vineyard": "Kavalieros",
+        "kavalieros_location": "Imerovigli village",
+        "kavalieros_altitude_meters": 250,
+        "kavalieros_description": "Overlooks the dramatic Santorini caldera from one of the highest altitudes on the island. One of the best sub-appellations.",
+        "soil_type": "Volcanic",
+        "vine_age": "50+ years (Kavalieros vineyard)"
+      },
+      "wines": [
+        {
+          "wine_id": "sigalas_kavalieros",
+          "name": "Kavalieros",
+          "type": "White",
+          "varietal": "Assyrtiko",
+          "varietal_percentage": 100,
+          "classification": "Single Vineyard, PDO Santorini",
+          "vineyard_name": "Kavalieros",
+          "vineyard_location": "Imerovigli",
+          "vineyard_altitude_meters": 250,
+          "vineyard_note": "Highest altitude vineyard site on Santorini. Name means 'on top'—winery believes this is one of the best vineyards in one of the best sub-appellations.",
+          "first_vintage": 2011,
+          "historic_significance": "First single-vineyard Assyrtiko ever produced in Santorini",
+          "production_details": {
+            "harvest_method": "Hand-harvest",
+            "fermentation": "Stainless steel, controlled temperature",
+            "lees_aging_months": 18,
+            "lees_treatment": "Intense stirring/batonnage",
+            "oak": "None (unoaked)",
+            "bottle_aging_months": "2 years post-harvest before release"
+          },
+          "technical_specs": {
+            "alcohol_percentage": 14.0,
+            "total_acidity_g_per_l": 6.3,
+            "residual_sugar_g_per_l": 2.8,
+            "style": "Dry"
+          },
+          "tasting_profile": {
+            "color": "Bright, clear",
+            "aroma": ["Sharp", "Vertical", "Citrus", "Herbs", "Green olive skin", "Mineral"],
+            "palate": ["Concentrated", "Complex", "Powerful", "White grapefruit", "Peach", "Quince", "Saline", "White wine tannins/crunch"],
+            "body": "Full-bodied",
+            "finish": "Unique lingering persistency, gripping, doesn't let go"
+          },
+          "tasting_notes_detailed": "Made from 100% Assyrtiko at Santorini's highest vineyard site. Delivers sharp, vertical aromas. The 18-month lees aging creates volume and creaminess while the characteristic salinity makes it irresistible. Concentrated and powerful yet gorgeously structured—never seeming overripe. Elegant in mid-palate but ever more powerful on finish. Simply gripping, fresh, lively, beautifully constructed.",
+          "critic_scores": {
+            "decanter_2024": "92 points (Silver) - Salted quince, green olive skin, mineral nuances. Lovely texture, refreshing.",
+            "robert_parker_2018": "Textured, ripe and gorgeously structured. Long finish, full-bodied.",
+            "wine_advocate_2017": "93 points - Most elegant of the Sigalas Assyrtikos. Impeccably balanced."
+          },
+          "price": {
+            "eur": 100,
+            "usd_estimated": 110
+          },
+          "production_volume_bottles": 10000,
+          "food_pairings": ["Seafood", "Complex fish dishes", "Aged cheeses"],
+          "aging_potential": {
+            "drink_now_until": "7+ years",
+            "note": "Needs cellar time to become more expressive"
+          },
+          "user_experience": {
+            "vintage_tasted": 2024,
+            "reaction": "💯 Exquisite. 'This is Assyrtiko single-vineyard. This is my category.'",
+            "tasting_notes": "Similar tasting notes to Karamolegos Papas.",
+            "comparison_to_papas": "Slightly cheaper and more accessible in my opinion, without sacrificing on taste. Similar terroir expression, younger vintage so no petrol notes yet.",
+            "thesis_fit": "Confirms the category: single-vineyard, high-altitude, old vines, €100 price point."
+          }
+        }
+      ],
+      "other_notable_wines": ["Santorini (flagship, 100k bottles)", "Santorini Barrel", "Mavrotragano", "Vinsanto"],
+      "visit_info": {
+        "location": "Near Oia",
+        "experiences": ["Tutored tastings", "Food and wine pairing menus", "Vineyard tours"],
+        "booking": "Advance booking required"
+      }
+    },
+    {
+      "id": "knack_001",
+      "name": "The Knack Project",
+      "region": "Attica",
+      "sub_region": "Megara",
+      "country": "Greece",
+      "founded": 2017,
+      "website": "https://www.theknackproject.gr",
+      "description": "Small, independent natural winery founded by Christos Koulouriotis. Born from passion—a wine lover who got his DipWSET (Level 4), then decided to make wine. 'I started backwards; I did not have the vines to make wine. First I learned to taste, then I decided to make my wine.' Total production just 5,000 bottles/year.",
+      "philosophy": "Low-intervention, authentic, unfiltered wines with true personality. Organic farming, spontaneous fermentation, minimal interference. Bold character, pure taste, fresh voice in new generation of Greek wine.",
+      "founder": {
+        "name": "Christos Koulouriotis",
+        "background": "Software professional who studied DipWSET, then built a winery. No prior viticulture experience—just deep love for wine and an inquiring mind.",
+        "approach": "Learned to taste first, then decided to make wine. Working with old vines he found 'by luck instead of personal choice.'"
+      },
+      "vineyard_info": {
+        "location": "Mountain vineyards of Megara, Attica",
+        "focus_varietals": ["Mouhtaro", "Savatiano", "Chardonnay"],
+        "vine_age": "Old vines",
+        "farming": "Organic methods"
+      },
+      "production_style": {
+        "approach": "Natural wine, minimal intervention",
+        "fermentation": "Spontaneous with native yeasts",
+        "filtration": "Unfiltered",
+        "sulfur": "Minimal or zero",
+        "total_production_bottles": 5000
+      },
+      "wines": [
+        {
+          "wine_id": "knack_mouhtaro",
+          "name": "The Knack Mouhtaro",
+          "type": "Red",
+          "varietal": "Mouhtaro",
+          "varietal_percentage": 100,
+          "classification": "Natural Wine, Wine of Greece",
+          "style": "Minimal intervention, unfiltered",
+          "tasting_profile": {
+            "character": "Natural expression of Mouhtaro—authentic, unfiltered, with true personality",
+            "body": "Medium to full",
+            "approach": "Pure, bold, expressive"
+          },
+          "vivino_rating": 3.9,
+          "food_pairings": ["Beef", "Lamb", "Veal", "Game", "Mature hard cheese"],
+          "user_experience": {
+            "reaction": "100 💯 'This is it for me.'",
+            "wines_tasted": "Two Mouhtaros—one barrel aged, the other not.",
+            "barrel_aged_notes": "One of the most interesting reds I've tried in a while. It tasted like nectar, with strawberry notes. Reminded me of Sicilian reds without the acidity.",
+            "unoaked_notes": "Softer on the palate with similar berry notes.",
+            "thesis_fit": "Micro-production (5,000 bottles total across all wines), natural winemaking, rare indigenous grape. The opposite of commercial—pure passion project."
+          }
+        }
+      ],
+      "other_notable_wines": ["The Knack White (Savatiano)", "Hippie Pet Nat", "Chardonnay"]
+    },
+    {
+      "id": "samartzis_001",
+      "name": "Samartzis Estate",
+      "alternate_names": ["Samartzis Estate Wines"],
+      "region": "Central Greece",
+      "sub_region": "Askri, Valley of the Muses, Boeotia (near Thebes)",
+      "country": "Greece",
+      "founded": 2008,
+      "website": "https://www.samartziswines.gr",
+      "description": "Family-run winery rooted in tradition yet driven by innovation. Located in the Valley of the Muses, about 1.5 hours northwest of Athens. Known for reviving the nearly extinct Mouhtaro grape. Embraces a 'one vineyard, one wine' philosophy.",
+      "philosophy": "Expressing terroir and grape identity. Reviving indigenous varietals. Sustainable farming, hand harvest, every plot has its own rhythm. Wines that wear their origin like a badge—unmistakably Askri, unpolished, and true.",
+      "founders": {
+        "panos_samartzis": "Former pharmacist turned vintner. The visionary behind Mouhtaro's revival.",
+        "spiros_samartzis": "Brother, co-manager"
+      },
+      "winemaker": "Panos Samartzis",
+      "vineyard_info": {
+        "total_hectares": 32,
+        "distinct_plots": 25,
+        "altitude_meters": [380, 420],
+        "climate": "Cool mountain breezes from Mount Helicon, abundant Boeotian sunshine",
+        "soil_type": "Clay and gravel, 6-8% gradient",
+        "irrigation": "Dry-farmed (no irrigation)",
+        "farming": "Sustainable"
+      },
+      "varietals_planted": ["Mouhtaro", "White Kontoura (bush-trained since 1962)", "Malagousia", "Assyrtiko", "Grenache Rouge", "Merlot", "Syrah"],
+      "unique_story": {
+        "mouhtaro_revival": "Mouhtaro is a rare, late-ripening local red grape that almost died out in the 1970s. Panos Samartzis kept it alive through persistence, rescuing it from the brink of extinction. Now produces single-varietal expressions and blends.",
+        "valley_of_muses": "Vineyards on the southeastern slopes of Mount Helicon, mythological home of the Muses. Connection to Greek cultural heritage."
+      },
+      "wines": [
+        {
+          "wine_id": "samartzis_mouhtaro_papanikolas",
+          "name": "Mouhtaro Papanikolas",
+          "type": "Red",
+          "varietal": "Mouhtaro",
+          "varietal_percentage": 100,
+          "classification": "PGI Thebes, Single Vineyard",
+          "vineyard_name": "Papanikolas",
+          "vineyard_location": "Southern slopes of Mount Helicon, Valley of the Muses",
+          "vineyard_altitude_meters": [380, 420],
+          "vineyard_training": "Royat formation",
+          "vines_per_hectare": 4200,
+          "irrigation": "Not irrigated (dry-farmed)",
+          "average_yield_kg_per_ha": 8000,
+          "grape_story": "Mouhtaro is an old, late-ripening red grape rescued from extinction. This is the 100% single-varietal expression—the purest form.",
+          "production_details": {
+            "oak_aging_months": 12,
+            "oak_type": "Large oak barrels",
+            "bottle_aging_months": 12,
+            "total_aging_months": 24
+          },
+          "technical_specs": {
+            "alcohol_percentage": 14.5
+          },
+          "tasting_profile": {
+            "color": "Dark black ruby red",
+            "aroma": ["Black cherry", "Black forest berries", "Violet", "Chocolate", "Cacao", "Vanilla", "Tobacco", "Sweet spice (cinnamon)"],
+            "palate": ["Rich", "Creamy", "Layered", "Dense", "Black fruit", "Butter", "Caramel", "Chocolate", "Cinnamon"],
+            "acidity": "Refreshing, high",
+            "tannins": "Mellow and round",
+            "body": "Full",
+            "finish": "Very long"
+          },
+          "tasting_notes_detailed": "The purest expression of the rescued Mouhtaro grape. Deep black ruby color with complex aromatics of black forest fruits, violet, chocolate, tobacco, and sweet spice. Rich, creamy, layered palate with refreshing acidity that cuts through the density. Full body with very long aftertaste. A wine that showcases what was almost lost forever.",
+          "price": {
+            "eur_vivino": 46,
+            "note": "Premium single-varietal expression"
+          },
+          "food_pairings": ["Beef", "Lamb", "Veal", "Game", "Mature hard cheese"],
+          "user_experience": {
+            "wine_tasted": "100% Mouhtaro Papanikolas",
+            "reaction": "Quite candidly, it's been a while—but the savory, herbaceous, tomato-leaf character stays with you.",
+            "significance": "Revival of an almost-extinct grape. Represents discovery and preservation.",
+            "thesis_fit": "Unique varietal nobody outside Greece knows. Boutique production. Story of rescue and revival. This is what 3 SOMS is about—finding wines the world hasn't discovered."
+          }
+        },
+        {
+          "wine_id": "samartzis_m_blend",
+          "name": "M (Merlot-Mouhtaro)",
+          "type": "Red",
+          "varietal": "Blend",
+          "varietal_breakdown": {
+            "merlot": 70,
+            "mouhtaro": 30
+          },
+          "classification": "PGI Central Greece",
+          "tasting_profile": {
+            "color": "Deep ruby",
+            "aroma": ["Black cherry", "Red cherry", "Pomegranate", "Cherry blossom", "Vanilla", "Chocolate"],
+            "palate": ["Red fruit", "Sweet spices", "Cinnamon", "Tomato leaf", "Black pepper"],
+            "tannins": "Fine-sand, gentle",
+            "body": "Medium to full",
+            "character": "Almost Pinot Noir-like"
+          },
+          "tasting_notes_detailed": "Although Merlot-weighted, the local Mouhtaro makes itself felt in the deliciously different flavor. Red cherry and pomegranate with tomato leaf, black pepper, and gentle fine-sand tannins. Full and rich with vanilla, chocolate and spice, followed by soft tannins and refreshing finish.",
+          "critic_notes": {
+            "joanna_simon": "Deliciously different flavour—red cherry, pomegranate, tomato-leaf, black pepper, fine-sand tannins.",
+            "jancis_robinson": "Transparent pillar-box red. Luminous, accessible, sautéed cranberries. More character than 100% Merlot."
+          },
+          "price": {
+            "eur_estimated": 15,
+            "note": "Excellent value entry point to Mouhtaro character"
+          }
+        }
+      ],
+      "other_notable_wines": ["White Kontoura (bush vines from 1962)", "Malagousia", "Grenache Rosé", "Two Rivers", "Klepsidra"]
+    },
+    {
+      "id": "bizios_001",
+      "name": "Bizios Estate",
+      "region": "Nemea",
+      "sub_region": "Asprokampos",
+      "country": "Greece",
+      "founded": 1998,
+      "website": "https://biziosestate.gr",
+      "description": "Family-run organic estate at the highest point of PDO Nemea. Founded by Elias Bizios, second-generation winemaker born and raised in Asprokampos village at 900m altitude. His love for the earth and vine made winemaking his vocation. Built his winery at the edge of his vineyard to express the everyday life of the grape.",
+      "philosophy": "Organic viticulture (certified nearly 30 years), dry-farmed, low yields for maximum concentration. Absolute respect for environment. Genuine expression of Asprokampos terroir—blending old with new, keeping tradition alive.",
+      "founder": {
+        "name": "Elias Bizios",
+        "background": "Son of a viticulturist, born and raised in Asprokampos",
+        "beloved_variety": "Agiorgitiko—dark crimson like the blood of Hercules, who legend says wandered this area to kill the lion of Nemea"
+      },
+      "certification": {
+        "organic": true,
+        "organic_years": 30,
+        "certification_type": "Certified Organic, European standard",
+        "dry_farmed": true
+      },
+      "vineyard_info": {
+        "total_hectares": 10,
+        "altitude_meters": [850, 900],
+        "altitude_significance": "Highest point of PDO Nemea. Cool night breezes from Mount Ziria benefit grape growing.",
+        "location": "Asprokampos village, in natural bowl between mountains of Ziria and Gavria",
+        "soil_type": "Mineral-rich, limestone, clay",
+        "soil_description": "Limestone bedrock with clay topsoil, excellent drainage",
+        "vines_age": "30-40 years",
+        "yields": "Very low—7000 kg/hectare for concentration"
+      },
+      "production_style": {
+        "approach": "Organic, dry-farmed, old-world with modern precision",
+        "harvesting": "Hand-harvest, selective picking",
+        "facility": "Modern winery with 200-tonne capacity, stainless steel tanks, oak barrel cellar"
+      },
+      "varietals_planted": ["Agiorgitiko", "Chardonnay", "Malagouzia", "Moschofilero", "Cabernet Sauvignon"],
+      "wines": [
+        {
+          "wine_id": "bizios_nemea_agiorgitiko",
+          "name": "Nemea PDO Agiorgitiko",
+          "type": "Red",
+          "varietal": "Agiorgitiko",
+          "varietal_percentage": 100,
+          "classification": "PDO Nemea, Organic",
+          "vineyard_location": "Single vineyard in Asprokampos",
+          "vineyard_altitude_meters": 900,
+          "vineyard_age_years": 40,
+          "organic": true,
+          "dry_farmed": true,
+          "production_details": {
+            "harvest_method": "Hand-harvest",
+            "fermentation": "Temperature-controlled",
+            "oak_aging_months": 12,
+            "oak_type": "French and American oak (15% new)",
+            "bottle_aging_months": 6,
+            "total_aging_months": 18
+          },
+          "technical_specs": {
+            "alcohol_percentage": 14.0,
+            "acidity": "High (limestone terroir + altitude)"
+          },
+          "tasting_profile": {
+            "color": "Deep ruby red",
+            "aroma": ["Black cherry", "Bramble", "Blackcurrant", "Wild herbs", "Smoke", "Cinnamon", "Vanilla toast", "Leather", "Tobacco"],
+            "palate": ["Dark fruit", "Pomegranate", "Tomato leaf", "Black pepper", "Opulent fruit", "Elegant spice"],
+            "tannins": "Fine-sand, soft, well-crafted, not aggressive",
+            "acidity": "Lively, remarkable freshness for a red",
+            "body": "Full-bodied",
+            "finish": "Long, fruity, mineral"
+          },
+          "tasting_notes_detailed": "The flagship from old vines at Nemea's highest point. Ruby red with complex nose of black cherry, forest, leather, spice. Rich, delicious mouthfeel with opulent fruit and elegant spice. High altitude brings remarkable freshness and balance. If tasted blind, you'd think top-end Bordeaux or fine Rioja. Dense black fruit intensity, perfectly integrated oak, silky and mouth-filling, astonishingly well balanced.",
+          "critic_notes": {
+            "virgin_wines": "Tasted blind, you'd think very top-end Bordeaux. Dense, perfectly integrated oak, silky, mouth-filling, astonishingly balanced.",
+            "maltby_greek": "Reminiscent of fine Rioja with richer fruit. High altitude brings welcome freshness."
+          },
+          "price": {
+            "eur": 17,
+            "usd": 19,
+            "gbp": 14
+          },
+          "value_thesis": "One of the best value wines in Europe. Organic, 40-year vines, 900m altitude, 12+ months oak, serious structure. €17 is extraordinary—equivalent quality Burgundy reds would be €60-80.",
+          "food_pairings": ["Lamb", "Steak", "Game", "Rich meat sauces", "Caramelized fruits", "Hard/smoked cheeses"],
+          "aging_potential": {
+            "drink_now_until": "2028+",
+            "peak_drinking_window": "Now through 5-6 years",
+            "can_age_years": 8
+          },
+          "user_experience": {
+            "reaction": "This is the best Agiorgitiko I've ever had. 'This feels too cheap! A steal.'",
+            "tasting_notes": "Tasted like a high-end Rioja—vanilla, leathery notes but softer on the palate.",
+            "significance": "The value anchor. Proves world-class quality exists at €17 in Greece.",
+            "thesis_fit": "Core to the 3 SOMS value proposition: organic, 40-year old vines, highest altitude in Nemea, serious production, €17. This is the market inefficiency.",
+            "also_tasted": "100% Agiorgitiko Rosé—I love Agiorgitiko rosé. It's slightly pungent, has character and richness for those wanting to enjoy a rosé with character."
+          }
+        },
+        {
+          "wine_id": "bizios_symposium",
+          "name": "Symposium",
+          "type": "Red",
+          "varietal": "Agiorgitiko",
+          "varietal_percentage": 100,
+          "classification": "Organic",
+          "tasting_profile": {
+            "color": "Deep purple",
+            "aroma": ["Bramble", "Blackcurrant", "Wild herbs", "Leather"],
+            "palate": ["Dark fruit", "Robust", "Exuberant"],
+            "tannins": "Soft, well-crafted",
+            "body": "Robust"
+          },
+          "serving_note": "Excellent served lightly chilled, Loire Cabernet Franc style",
+          "price": {
+            "eur_estimated": 12
+          }
+        }
+      ],
+      "other_notable_wines": ["Malagouzia", "Moschofilero", "Chardonnay"]
+    },
+    {
+      "id": "dalamara_001",
+      "name": "Dalamara",
+      "region": "Naoussa",
+      "sub_region": "Central Macedonia",
+      "country": "Greece",
+      "founded": 1840,
+      "website": "https://www.dalamara.gr",
+      "description": "Sixth-generation family winery instrumental in helping Naoussa become Greece's first wine appellation in 1971. Located at the entrance of Naoussa town on the eastern foothills of Mount Vermio. Known for the 'Paliokalias' single vineyard—considered a Greek 'Grand Cru'. One of the finest Xinomavro producers in Greece.",
+      "philosophy": "Organic since 1996, biodynamic (uncertified) since 2008. Self-sufficient—produces own fertilizer on the farm, 100% solar-powered winery. Minimal intervention: native yeasts, no added enzymes, no filtration, no clarification. Only intervention is small amount of sulfur.",
+      "owners": {
+        "kostis_dalamara": "Sixth generation. Studied oenology at Beaune, worked at Domaine Trapet (Gevrey-Chambertin), Clos du Rouge Gorge (Roussillon), plus Alsace and Catalonia. Took over from father in 2010.",
+        "maria_dalamara": "Wife, co-manager"
+      },
+      "vineyard_info": {
+        "total_hectares": 6,
+        "vineyard_parcels": ["Paliokalias", "Vados", "Gastra"],
+        "paliokalias_description": "Greek 'Grand Cru'. Name means 'Old Watch Point'. Located 2.5 miles southeast of Naoussa town at 250-300m altitude. Deep groundwater, small river with stable water flow. South-facing slopes with full sun exposure.",
+        "vine_age_paliokalias": 85,
+        "altitude_meters": [240, 300],
+        "soil_type": "Limestone, clay",
+        "climate": "Warm, dry summers; mild winters. Full sun exposure most of day."
+      },
+      "certification": {
+        "organic": true,
+        "organic_since": 1996,
+        "biodynamic": true,
+        "biodynamic_since": 2008,
+        "biodynamic_certified": false
+      },
+      "production_style": {
+        "approach": "Minimal intervention, native yeast fermentation",
+        "fermentation": "Stainless steel with native yeasts",
+        "extraction": "8-10 days",
+        "oak_aging": "17 months in French oak (50% 300L, 50% 225L; 10% new, 90% 2nd-5th use)",
+        "filtration": "None",
+        "clarification": "None",
+        "sulfur": "Very small amount"
+      },
+      "wines": [
+        {
+          "wine_id": "dalamara_paliokalias",
+          "name": "Paliokalias",
+          "type": "Red",
+          "varietal": "Xinomavro",
+          "varietal_percentage": 100,
+          "classification": "PDO Naoussa, Single Vineyard, Organic",
+          "vineyard_name": "Paliokalias",
+          "vineyard_altitude_meters": [250, 300],
+          "vineyard_age_years": 85,
+          "production_details": {
+            "fermentation": "Stainless steel, native yeasts",
+            "extraction_days": 10,
+            "oak_aging_months": 17,
+            "oak_type": "French oak, 300L and 225L, 10% new"
+          },
+          "technical_specs": {
+            "alcohol_percentage": 13.0
+          },
+          "tasting_profile": {
+            "color": "Pale ruby (typical of Xinomavro)",
+            "aroma": ["Black tea", "Cherry", "Incense", "Bramble", "Dried plums", "Balsamic", "Violets", "Sundried tomato", "Wild scrubland", "Cedar", "Allspice", "Cinnamon"],
+            "palate": ["Dark cherry", "Dried red fruits", "Leather", "Tobacco leaf", "Spice", "Smoky/mineral"],
+            "tannins": "Powerful yet never intrusive, firm but not aggressive, deliciously dry",
+            "acidity": "Intense, brisk, signature Xinomavro freshness",
+            "body": "Medium-full, wonderfully concentrated",
+            "finish": "Huge complexity, long"
+          },
+          "tasting_notes_detailed": "Astonishing power and concentration from the 'Grand Cru' of Naoussa. Pale in color but intensely aromatic with black tea, cherry, incense, bramble. Wonderfully concentrated palate with powerful yet never intrusive tannins. Like fine Barolo or aged Burgundy—Xinomavro shows dried red fruits, leather, game, spice, and tar. Needs time but rewards patience. One of the finest examples of Greek wine.",
+          "critic_scores": {
+            "jancis_robinson": "Serious wine that really needs time to show elegance. Silky complexity with age.",
+            "wine_society": "May well be the best of the bunch. 2021 believed to be one of best vintages in Naoussa.",
+            "wine_advocate": "90+ points consistently"
+          },
+          "price": {
+            "eur_estimated": 35,
+            "usd": 40,
+            "note": "Third most expensive Xinomavro in Naoussa, price rising"
+          },
+          "food_pairings": ["Grilled lamb", "Duck", "Goose", "Game birds", "Aged cheeses"],
+          "aging_potential": {
+            "drink_now_until": "2035+",
+            "peak_drinking_window": "5-15 years from vintage",
+            "can_age_years": 20,
+            "note": "Xinomavro is often compared to Nebbiolo—structured, complex, age-worthy"
+          },
+          "user_experience": {
+            "connection": "Met Kostis Dalamara through Vagelis at Lost Roots wine bar. Visited the winery.",
+            "wines_tasted": "All their wines. Tasted the 2022 vintage of Paliokalias which was not for sale yet.",
+            "reaction": "He's the OG of Xinomavro with Thymiopoulos. His wines rival anything from Burgundy, especially Paliokalias.",
+            "personal_note": "He's a great person too (see my Google reviews). Studied in France, speaks French.",
+            "recommendation": "His Naoussa is a great entry point for those looking to discover Xinomavro.",
+            "significance": "The entry point to serious Xinomavro. When Vagelis introduced you to this grape at Lost Roots, it started a journey through Naoussa."
+          }
+        },
+        {
+          "wine_id": "dalamara_naoussa",
+          "name": "Naoussa Xinomavro",
+          "type": "Red",
+          "varietal": "Xinomavro",
+          "varietal_percentage": 100,
+          "classification": "PDO Naoussa, Organic",
+          "description": "The 'entry level' Dalamara—but don't let that fool you. Featured on wine lists at Noble Rot London. Fresh strawberries, sundried tomato, juicy cranberry, spice. Sensational and approachable in youth but with great aging capacity.",
+          "price": {
+            "eur_estimated": 15,
+            "usd": 18
+          },
+          "note": "Brilliant value, one of finest examples available"
+        }
+      ],
+      "other_products": ["Tsipouro (traditional spirit, distilled since 1840)"],
+      "visit_info": {
+        "location": "Regional road, 1km before Naoussa town",
+        "experience": "Cozy tasting room with roaring fire in winter. View from balcony over vineyards to Thessaloniki bay.",
+        "nearby": "Agios Nikolaos park, Vergina (Tomb of King Philip), Edessa springs"
+      }
+    },
+    {
+      "id": "thymiopoulos_001",
+      "name": "Thymiopoulos Vineyards",
+      "region": "Naoussa",
+      "sub_region": "Central Macedonia",
+      "country": "Greece",
+      "founded": 2003,
+      "website": "https://www.thymiopoulosvineyards.gr",
+      "description": "Multi-generational family of grape growers who began bottling their own wine in 2003. Apostolos Thymiopoulos has made Xinomavro one of the most prestigious wines on international wine lists. Most production exported abroad—recognized as one of the most interesting wineries in all of Greece.",
+      "philosophy": "Certified organic and biodynamic farming. All wines fermented with wild yeast. Focus on expressing the elegance and complexity of Xinomavro without heavy-handed winemaking.",
+      "founder": {
+        "name": "Apostolos Thymiopoulos",
+        "background": "Family has grown grapes in Naoussa for generations. After studying oenology at University of Athens, returned to family vineyards to bottle under own label.",
+        "achievement": "The man who 'tamed Xinomavro'—made the grape accessible while preserving its serious character."
+      },
+      "certification": {
+        "organic": true,
+        "biodynamic": true
+      },
+      "vineyard_info": {
+        "locations": ["Trilofos village (70%)", "Fytia village (30%)"],
+        "trilofos_altitude_meters": [150, 250],
+        "fytia_altitude_meters": [450, 650],
+        "vine_age": 45,
+        "soil_type": "Limestone with schist, granite, and clay top-soil",
+        "climate": "Warm climate tempered by Mediterranean winds and air from Vermio mountain. High altitude and big diurnal range at Fytia adds complexity and finesse."
+      },
+      "wines": [
+        {
+          "wine_id": "thymiopoulos_earth_sky",
+          "name": "Earth and Sky (Ghi kai Uranos)",
+          "type": "Red",
+          "varietal": "Xinomavro",
+          "varietal_percentage": 100,
+          "classification": "PDO Naoussa, Organic/Biodynamic",
+          "description": "The biggest hit. Blend of best parcels from estate vineyards. Named 'Earth and Sky' (Ghi kai Uranos). One of the top 5 rated Naoussa wines by critics.",
+          "vineyard_age_years": 45,
+          "production_details": {
+            "destemming": "60%",
+            "maceration_days": 40,
+            "fermentation": "Indigenous/wild yeast",
+            "oak_aging_months": 18,
+            "oak_type": "Third-use, 500-litre French oak barrels",
+            "filtration": "None"
+          },
+          "technical_specs": {
+            "alcohol_percentage": 14.0
+          },
+          "tasting_profile": {
+            "color": "Ruby with warmth and lightness",
+            "aroma": ["Sundried tomato", "Wild strawberry", "Pomegranate", "Undergrowth", "Flowers", "Truffles", "Incense", "Red liquorice", "Exotic spices", "Herbaceous/leafy"],
+            "palate": ["Dark fruit", "Juicy red fruit", "Complex", "Well-balanced tannins"],
+            "body": "Medium to full",
+            "finish": "Lingering, complex"
+          },
+          "tasting_notes_detailed": "Exceptional—achieves rare combination of very full, concentrated fruit while maintaining lightness and high finesse. The sundried tomato of classic Naoussa is prominent but balanced by juicy red fruit. Fresh with robust tannins, intense fruit that will mellow and become remarkable over time. A wine you can fall into like falling into bed at the end of a long day.",
+          "critic_scores": {
+            "falstaff": "96-97 points potential with aging",
+            "wine_advocate": "93 points",
+            "note": "One of top 5 Naoussa wines by critics"
+          },
+          "price": {
+            "eur": 40,
+            "usd": 50
+          },
+          "aging_potential": {
+            "drink_now_until": "2035",
+            "can_age_years": 15
+          },
+          "user_experience": {
+            "reaction": "One of the biggest steals. One of the other OGs alongside Dalamara.",
+            "wines_tasted": ["Earth and Sky", "Vrana Petra (highest end)", "ATMA White", "Blanc de Coteaux"],
+            "earth_sky_notes": "These are cerebral wines, similar to Paliokalias.",
+            "atma_white_notes": "Genius. First time I heard of the concept of a blanc de noirs (white from red grapes).",
+            "blanc_de_coteaux_notes": "Exquisite and quite cerebral for minimal intervention wine lovers: fruity, soft on the palate and slightly buttery.",
+            "significance": "Wished wine lists had more producers like Thymiopoulos (mentioned at Marais bar in Thessaloniki). The man who tamed Xinomavro—makes it accessible while keeping the serious character.",
+            "thesis_fit": "Hard to find by the glass. Represents the quality of Naoussa Xinomavro that's under-recognized internationally."
+          }
+        },
+        {
+          "wine_id": "thymiopoulos_young_vines",
+          "name": "Young Vines Xinomavro",
+          "type": "Red",
+          "varietal": "Xinomavro",
+          "varietal_percentage": 100,
+          "classification": "PDO Naoussa",
+          "description": "Entry-level, unoaked. Fragrant and fresh expression with notes of red fruit and herbs. Underlying acidity and lingering finish.",
+          "production_details": {
+            "oak": "None",
+            "fermentation": "Wild yeast"
+          },
+          "price": {
+            "eur_estimated": 12,
+            "usd": 14
+          },
+          "note": "Great value introduction to Thymiopoulos style"
+        }
+      ],
+      "other_notable_wines": ["Xinomavro Nature", "Kayafas (single vineyard)", "Aftorizo", "Vrana Petra"]
+    },
+    {
+      "id": "hatzidakis_001",
+      "name": "Hatzidakis Winery",
+      "region": "Santorini",
+      "sub_region": "Pyrgos Kallistis",
+      "country": "Greece",
+      "founded": 1997,
+      "website": "https://www.hatzidakiswines.gr",
+      "description": "Legendary cave winery with cult status in the wine world. Santorini's only certified organic winery. Built literally beneath its own vineyard, carved into underground cave structures. Founded by visionary winemaker Haridimos Hatzidakis, who passed away suddenly in 2017. His pioneering work pushed Greek wine to the forefront of the international wine world.",
+      "philosophy": "Organic and biodynamic methods in vineyards, minimal intervention in cellars. No herbicides, pesticides, or irrigation—humidity from sea breezes provides just enough moisture. Vines trained close to ground in unique bird's nest shape (kouloura). Focused on authentic expression of volcanic terroir.",
+      "legacy": {
+        "haridimos_hatzidakis": "Originally from Crete, previously winemaker at Boutari. Totally connected with the land. Being among his vines was what he loved. Created complex wines comparable to great wines of Jura, Loire, and Chablis. Passed away August 2017.",
+        "current_team": "Now run by Stella Hatzidakis and Konstantina Chryssou (co-founder), continuing Haridimos's spirit and philosophy."
+      },
+      "recognition": {
+        "restaurants": ["Geranium (Copenhagen)", "Esperanto (Stockholm)"],
+        "status": "Cult status in wine world"
+      },
+      "certification": {
+        "organic": true,
+        "organic_note": "Only certified organic winery on Santorini",
+        "vegan": true,
+        "biodynamic_practices": true
+      },
+      "vineyard_info": {
+        "total_hectares": 10,
+        "altitude_meters": 330,
+        "location": "Pyrgos Kallistis, on road to Profiti Ilias monastery—highest village in Santorini",
+        "vine_age_range": "40-150 years",
+        "rootstock": "Own roots (ungrafted, pre-phylloxera)",
+        "training": "Traditional kouloura (bird's nest shape)",
+        "soil_type": "Volcanic (ash, pumice)",
+        "climate": "Mediterranean—warm days, cool nights. Sea breezes provide humidity.",
+        "irrigation": "None"
+      },
+      "winery_info": {
+        "style": "Cave winery carved from volcanic tufa beneath vineyards",
+        "design": "Subterranean—natural temperature stability, bioclimatic building following traditional Santorini architecture",
+        "philosophy": "Did not uproot even one vine to build—precious grape quantities"
+      },
+      "wines": [
+        {
+          "wine_id": "hatzidakis_santorini_familia",
+          "name": "Santorini Familia",
+          "type": "White",
+          "varietal": "Assyrtiko",
+          "varietal_percentage": 90,
+          "secondary_varietals": ["Aidani (10%)"],
+          "classification": "PDO Santorini, Organic",
+          "description": "Main wine of the estate—gold-standard Assyrtiko. Plots across the island owned by friends and family, hence 'Familia'. Powerful yet elegant, smoky, steely, sea-breezy, Chablis-esque charm.",
+          "production_volume": "7,000 dozen/year",
+          "tasting_profile": {
+            "color": "Medium golden",
+            "aroma": ["Stone fruits", "Dried apricots", "Cashew", "Citrus", "Mineral"],
+            "palate": ["Textured", "Long", "Saline", "Bone-dry", "Intense minerality"],
+            "body": "Medium to full",
+            "finish": "Long, saline"
+          },
+          "tasting_notes_detailed": "Broad yet focused Assyrtiko—like a bodybuilder showing incredible weight and power whilst also being elegant and defined. Stone fruits, dried apricots and cashew on nose. Textured, long, saline palate. Gold-standard Assyrtiko with powerful yet elegant, smoky, steely, sea-breezy Chablis-esque charm.",
+          "price": {
+            "eur_estimated": 25,
+            "usd_estimated": 30
+          },
+          "food_pairings": ["Salty canapés", "Mediterranean seafood", "Greek lemon chicken"],
+          "user_experience": {
+            "wines_tasted": ["Assyrtiko", "Aidani", "Mavrotragano"],
+            "reaction": "He specializes in 100% single-varietal bottles and is one of the OGs of Greek wines. All exquisite and quite cerebral.",
+            "mavrotragano_notes": "Particularly the Mavrotragano—cerebral, complex.",
+            "significance": "Represents the pinnacle of Santorini organic winemaking. The visionary's legacy continues."
+          }
+        },
+        {
+          "wine_id": "hatzidakis_vinsanto",
+          "name": "Vinsanto",
+          "type": "Sweet/Dessert",
+          "varietal": "Assyrtiko blend",
+          "classification": "PDO Santorini, Natural Sweet Wine",
+          "description": "Traditional Santorini sweet wine. An explosion of aromas: raisin, dried fruits, honey, caramel, coffee, chocolate, nuts, spices, mint, incense, minerality, graphite, gunpowder.",
+          "tasting_notes_detailed": "Endless aromatics. Raisin, dried fruits, honey, caramel, coffee, chocolate, nuts and spices alongside mint, incense, minerality, graphite and gunpowder. Complex, historic style.",
+          "user_experience": {
+            "note": "Capped dinner with Hatzidakis Vinsanto—referenced in your review of the winery experience."
+          }
+        },
+        {
+          "wine_id": "hatzidakis_mavrotragano",
+          "name": "Mavrotragano",
+          "type": "Red",
+          "varietal": "Mavrotragano",
+          "varietal_percentage": 100,
+          "classification": "PGI Cyclades",
+          "description": "Indigenous red grape of Santorini. Name roughly translates as 'black and crispy.' Complex, eccentric red wine made in the cave winery.",
+          "note": "Mavrotragano vineyard grows directly above the underground cave winery."
+        }
+      ],
+      "other_notable_wines": ["Nykteri", "Cuvée No. 15", "Assyrtiko de Mylos", "Skitali", "Aidani"],
+      "visit_info": {
+        "location": "Outside Pyrgos Kallisti, on road to Emporio",
+        "experience": "Underground cave beneath family vineyard. Relaxed, intimate atmosphere. Appointment only.",
+        "booking": "Required in advance",
+        "hours": "Tuesday-Saturday 9:30-15:30"
+      }
+    },
+    {
+      "id": "gerovasiliou_001",
+      "name": "Ktima Gerovassiliou",
+      "region": "Macedonia",
+      "sub_region": "Epanomi (near Thessaloniki)",
+      "country": "Greece",
+      "founded": 1981,
+      "website": "https://www.gerovassiliou.gr",
+      "description": "Legendary estate that saved Malagousia from extinction. Vangelis Gerovassiliou is credited as the 'father of Malagousia.' Consistently ranked in Top 50 wineries worldwide. The benchmark for Greek aromatic whites.",
+      "philosophy": "Single private vineyard cultivation with great care, producing wines that carry all characteristics of Epanomi terroir. Combination of tradition and modern technology.",
+      "founder": "Evangelos (Vangelis) Gerovassiliou",
+      "historic_significance": "Rescued Malagousia grape from extinction in 1981. First to vinify it commercially. Changed Greek wine history.",
+      "vineyard_info": {
+        "total_hectares": 95,
+        "location": "Slopes of Epanomi, 25km south of Thessaloniki, surrounded by sea on 3 sides",
+        "soil_type": "Limestone-rich",
+        "climate": "Mediterranean with sea influence from Gulf",
+        "varietals": ["Malagousia", "Assyrtiko", "Limnio", "Mavroudi", "Mavrotragano", "Xinomavro", "Chardonnay", "Sauvignon Blanc", "Viognier", "Syrah", "Merlot"]
+      },
+      "wines": [
+        {
+          "wine_id": "gerovasiliou_malagousia",
+          "name": "Malagousia",
+          "type": "White",
+          "varietal": "Malagousia",
+          "varietal_percentage": 100,
+          "classification": "PGI Epanomi",
+          "description": "The benchmark Malagousia. Rescued grape variety, now planted throughout Greece, but Gerovasiliou's remains the standard by which all others are measured.",
+          "production_details": {
+            "skin_contact": "Yes (cold)",
+            "fermentation": "80% stainless steel at 18-20°C, 20% French oak",
+            "lees_aging_months": 2,
+            "batonnage": "Yes"
+          },
+          "tasting_profile": {
+            "color": "Brilliant straw with green hues",
+            "aroma": ["Pear", "Mango", "Citrus", "Lemon zest", "White flowers", "Jasmine", "Roses", "Chamomile", "Lychee", "Tropical fruit"],
+            "palate": ["Rich", "Harmonious", "Spicy", "Mouthwatering", "Flinty mineral"],
+            "body": "Medium to full",
+            "finish": "Long, spicy, mineral"
+          },
+          "critic_scores": {
+            "james_suckling_2022": "93 - Floral jasmine to roses and chamomile, melon and lychee. Silky and oily, full body, fantastic freshness, salty mineral.",
+            "note": "Gold Medal Mundus Vini, Gold Medal Berliner Wein Trophy"
+          },
+          "price": {
+            "eur_estimated": 18,
+            "usd": 22
+          },
+          "food_pairings": ["Seafood", "Poultry", "Mediterranean cuisine", "Asian cuisine", "Thai food"]
+        }
+      ],
+      "other_notable_wines": ["Avaton (red blend)", "Fumé", "Viognier", "Syrah"],
+      "visit_info": {
+        "wine_museum": "Passion project with wine artifacts",
+        "experience": "Tours, tastings, food pairings",
+        "note": "Stunning modern architecture with outdoor art"
+      },
+      "user_experience": {
+        "reaction": "The O.G. of Malagousia. He brought the grape back from the brink.",
+        "tasting_notes": "The fruit forwardness on his Malagousia is insane! Citrusy to me, melony. It's a cacophony of flavors in the mouth.",
+        "significance": "The benchmark. Without Gerovasiliou, this grape would be extinct."
+      }
+    },
+    {
+      "id": "ligas_001",
+      "name": "Ktima Ligas (Domaine Ligas)",
+      "region": "Pella (Macedonia)",
+      "sub_region": "Giannitsa",
+      "country": "Greece",
+      "founded": 1985,
+      "website": "https://www.ligaswines.gr",
+      "description": "Pioneer of organic farming and natural wine in Greece. Family winery now run by Meli (Melissanthi) Ligas. Known for zero-sulfur wines, permaculture practices, and reviving rare indigenous varieties. Solar-powered since 2003.",
+      "philosophy": "Low-intervention, zero-sulfur philosophy. Permaculture in vineyards. Spontaneous fermentation with indigenous yeasts. No fining, no filtration. 'Wine is not the sole product of a vineyard—there are other plants and species that rely on that land too.'",
+      "founders": {
+        "thomas_ligas": "Studied oenology in France. Pioneer of organic farming in Greece. 'My father always wanted to work with Roditis on its own.'",
+        "current_generation": "Meli (Melissanthi) Ligas and brother Jason"
+      },
+      "vineyard_info": {
+        "total_hectares": 7.5,
+        "altitude_range_meters": [70, 350],
+        "soil_type": "Clay, limestone, loamy sand",
+        "farming": "Organic certified, permaculture principles, dry-farmed",
+        "vine_age": "20-40 years",
+        "varietals": ["Roditis", "Assyrtiko", "Kydonitsa", "Xinomavro", "Limniona", "Moschomavro", "Negoska"]
+      },
+      "production_style": {
+        "fermentation": "Spontaneous with indigenous yeasts",
+        "sulfur": "Zero or minimal (<10-17 mg/L)",
+        "fining": "None",
+        "filtration": "None",
+        "vessels": ["Stainless steel", "Old oak barrels", "Amphora"]
+      },
+      "wines": [
+        {
+          "wine_id": "ligas_assyrtiko_mvl",
+          "name": "Maison Viticole Ligas Assyrtiko",
+          "type": "Orange/White",
+          "varietal": "Assyrtiko",
+          "varietal_percentage": 100,
+          "classification": "Natural Wine, PGI Pella",
+          "style": "Minimal intervention, skin contact",
+          "production_details": {
+            "skin_contact": "Several days (somewhere between white and orange)",
+            "fermentation": "Spontaneous in stainless steel and old oak",
+            "sulfur": "Low (15-17 mg/L)",
+            "filtration": "None"
+          },
+          "tasting_profile": {
+            "color": "Cloudy (unfiltered)",
+            "character": "Great introduction to natural/unfiltered wine",
+            "texture": "Touch of tannin from skin contact, super clean, very drinkable",
+            "acidity": "Fresh"
+          },
+          "price": {
+            "eur_estimated": 20
+          },
+          "food_pairings": ["Seafood", "Grilled fish", "Greek mezze", "Brunch"],
+          "note": "Works for many moments—brunch, dinner, late night drinks"
+        },
+        {
+          "wine_id": "ligas_lamda",
+          "name": "Lamda Assyrtiko",
+          "type": "Orange",
+          "varietal": "Assyrtiko",
+          "varietal_percentage": 100,
+          "vine_age": 40,
+          "production_details": {
+            "skin_contact_days": 7,
+            "oak_aging_months": [8, 12],
+            "sulfur": "17 mg/L"
+          },
+          "note": "Grown on 2-meter pergolas to emphasize mineral character"
+        }
+      ],
+      "other_notable_wines": ["Roditis Maceration", "Bucephale (Xinomavro)", "Kydonitsa", "Xi-Ro", "Yomatari blend"],
+      "raw_wine_certification": "Listed on RAW WINE platform",
+      "user_experience": {
+        "reaction": "Another O.G.—creative, playful.",
+        "context": "Had a minimal intervention Assyrtiko from him with a full course fish meal at Murga in Thessaloniki. The whole bottle accompanied the meal perfectly.",
+        "tasting_notes": "The expression of the Assyrtiko, similar to the Julia Assyrtiko, speaks of the Northern Greece terroir to me: it's less mineral than on Santorini, a bit more fruity and pungent (this perhaps thanks to Ligas' natural winemaking practices).",
+        "insight": "Northern Greece Assyrtiko = different terroir expression. Less volcanic minerality, more fruit-forward."
+      }
+    },
+    {
+      "id": "tsimbidi_001",
+      "name": "Monemvasia Winery (Tsimbidi)",
+      "region": "Laconia (Peloponnese)",
+      "sub_region": "Monemvasia",
+      "country": "Greece",
+      "founded": 1997,
+      "website": "https://www.monemvasiawinery.gr",
+      "description": "Family winery dedicated to reviving the historic Malvasia wine and rescuing almost-forgotten grapes like Kydonitsa and Monemvasia. Resurrected PDO Monemvasia-Malvasia sweet wine (first modern bottling 2013). Physicist-turned-winemaker George Tsimbidis founded it as a passion project.",
+      "philosophy": "Investing solely in Greek local varieties. Positioning Monemvasia's terroir on the global wine map. Modern winemaking applied to indigenous heritage grapes.",
+      "founders": {
+        "george_tsimbidis": "Physicist by profession, wine lover by passion. Native of Velies village. Love for history and homeland drove the resurrection of Malvasia.",
+        "elli_tsimbidis": "Wife, co-founder",
+        "second_generation": "Daughters Marialena, Anastasia (winemaking), Artemis (in enological studies)"
+      },
+      "the_malvasia_project": "Historical research, vineyard selection, winemaking to resurrect the medieval sweet wine that once graced sophisticated Mediterranean tables. PDO recognition achieved 2010, first modern bottling 2013.",
+      "vineyard_info": {
+        "total_hectares": 30,
+        "villages": ["Velies", "Agios Dimitrios"],
+        "altitude_meters": [250, 300],
+        "distance_from_sea_km": 10,
+        "soil_type": "Schist and clay-loam, generally alkaline",
+        "farming": "Organic certified"
+      },
+      "varietals": ["Kydonitsa", "Monemvasia", "Asproudi", "Assyrtiko", "Agiorgitiko", "Mavroudi", "Limniona"],
+      "wines": [
+        {
+          "wine_id": "tsimbidi_kydonitsa",
+          "name": "Kydonitsa",
+          "type": "White",
+          "varietal": "Kydonitsa",
+          "varietal_percentage": 100,
+          "classification": "PGI Laconia",
+          "description": "Flagship white from rare indigenous variety. Crown jewel of the winery. Nearly extinct grape revived.",
+          "production_details": {
+            "fermentation": "Stainless steel at 16-18°C",
+            "lees_aging_months": 5,
+            "batonnage": "Periodic stirring"
+          },
+          "tasting_profile": {
+            "color": "Yellow-green",
+            "aroma": ["Tropical fruits", "Bergamot", "Apple geranium", "Quince"],
+            "palate": ["Full body", "Fresh", "Pleasant acidity"],
+            "finish": "Magnificent, long"
+          },
+          "price": {
+            "eur_estimated": 15
+          },
+          "aging_potential_years": [3, 4],
+          "food_pairings": ["Phyllo pie with greens", "Fresh fish", "White meat with lemon and herbs"]
+        },
+        {
+          "wine_id": "tsimbidi_monemvasia_dry",
+          "name": "Monemvasia (Dry)",
+          "type": "White",
+          "varietal": "Monemvasia",
+          "varietal_percentage": 100,
+          "description": "Dry version of the historic grape. Citrus, stone fruit, wildflower notes.",
+          "food_pairings": ["Grilled fish", "Aged cheeses"]
+        },
+        {
+          "wine_id": "tsimbidi_assyrtiko",
+          "name": "Assyrtiko",
+          "type": "White",
+          "varietal": "Assyrtiko",
+          "varietal_percentage": 100,
+          "note": "Tsimbidis believe Assyrtiko was likely part of the historical grape mix here, increasingly important in warming climate"
+        },
+        {
+          "wine_id": "tsimbidi_malvasia",
+          "name": "Monemvasia-Malvasia",
+          "type": "Sweet/Dessert",
+          "classification": "PDO Monemvasia-Malvasia",
+          "varietal_breakdown": {
+            "monemvasia": "51%+",
+            "assyrtiko": "blend",
+            "kydonitsa": "blend",
+            "asproudi": "blend"
+          },
+          "production": "Sun-dried grapes (8-15 days), concentrated sugars, slow fermentation, oak aging",
+          "tasting_profile": {
+            "aroma": ["Quince", "Dried apricot", "Gentle spice", "Beeswax"],
+            "palate": ["Honeyed", "Complex", "Saline freshness from coastal position"],
+            "finish": "Long, balanced"
+          },
+          "historic_significance": "First modern bottling of this medieval wine since Ottoman occupation"
+        }
+      ],
+      "other_notable_wines": ["Limniona (red)", "Monemvasios (red)", "Laludi (rosé)", "Voltes (entry level)"],
+      "user_experience": {
+        "reaction": "The king and queen of Laconia, part of the ancient Spartan heartland. Family winery.",
+        "kydonitsa_notes": "A rare and interesting grape. Mineral, Assyrtiko-like but more accessible, a bit more capricious. It's an accessible, affordable cerebral wine.",
+        "monemvasia_notes": "Sharing a name with the town nearby, comes from the name of a wine that was prized all over the area in Byzantine times, and beyond the Byzantine world. Smooth and silky red. Not as acidic as Xinomavro, neither vanilla-y nor leathery as Agiorgitiko.",
+        "assyrtiko_notes": "Quite interesting: not as mineral as on Santorini, but still very buttery and smooth, with a beautiful golden color.",
+        "thesis_fit": "Historic grapes from historic land. Byzantine wine heritage revived."
+      }
+    },
+    {
+      "id": "ieropoulos_001",
+      "name": "Ieropoulos Family Winery",
+      "region": "Nemea",
+      "sub_region": "Koutsi",
+      "country": "Greece",
+      "founded": 2008,
+      "website": "https://www.f-iero.gr",
+      "description": "Boutique winery founded by Chronis Ieropoulos, applying traditional techniques learned from his grandfather in Kastoria mountains to the Nemea terroir. Focus on expressing history and tradition of Nemea through modern methods.",
+      "philosophy": "Grandfather's principles combined with advanced technology. Minimal intervention winemaking using only free-run juice. Vineyards as the absolute epicenter.",
+      "founder": {
+        "chronis_ieropoulos": "Learned wine secrets from grandfather in Kastoria mountains. Built model winery in Nemea in 2008.",
+        "family_affair": "Wife and daughters all involved"
+      },
+      "vineyard_info": {
+        "location": "Within PDO Nemea zone",
+        "winery_architecture": "Dark stones excavated from neighboring mountains, blending into landscape"
+      },
+      "production_style": {
+        "juice": "Only free-run (no pressing)",
+        "fermentation": "Open vats for control",
+        "aging_cellar": "Cooled, constant temperature",
+        "storage_cellar": "Lower temperature, higher humidity"
+      },
+      "wines": [
+        {
+          "wine_id": "ieropoulos_saint_george",
+          "name": "Saint George (Rosé)",
+          "type": "Rosé",
+          "varietal": "Agiorgitiko",
+          "varietal_percentage": 100,
+          "description": "Elegant rosé embodying the versatility of Agiorgitiko. Aromatic, gentle, refreshing acidity.",
+          "price": {
+            "eur": 13,
+            "usd": 13
+          },
+          "food_pairings": ["Aperitif", "Light meat dishes", "Fresh tomato sauce dishes"]
+        },
+        {
+          "wine_id": "ieropoulos_aras",
+          "name": "Aras",
+          "type": "Red",
+          "varietal": "Agiorgitiko",
+          "varietal_percentage": 100,
+          "classification": "PDO Nemea",
+          "production_details": {
+            "oak_aging_months": [6, 8],
+            "oak_type": "French oak"
+          },
+          "tasting_profile": {
+            "aroma": ["Fresh fruit", "Spices"],
+            "palate": ["Soft", "Friendly", "Rich fruity character"],
+            "tannins": "Distinct",
+            "finish": "Long"
+          },
+          "food_pairings": ["Cheeses", "Cold cuts", "Comfort food red meat"]
+        },
+        {
+          "wine_id": "ieropoulos_chrysovoulon",
+          "name": "Chrysovoulon (Daemon)",
+          "type": "Red",
+          "varietal": "Agiorgitiko",
+          "varietal_percentage": 100,
+          "classification": "PDO Nemea",
+          "description": "Premium red—'Nemea meets Burgundy.' Combines finesse with aging ability.",
+          "production_details": {
+            "oak_aging_months": 18,
+            "oak_type": "French oak"
+          },
+          "tasting_profile": {
+            "aroma": ["Fruits", "Spices", "Blackberries", "Mediterranean herbs", "Cedar"],
+            "palate": ["Intensity", "Exuberance", "Balance", "Elegance"],
+            "finish": "Persistent, peppery"
+          },
+          "aging_potential_years": 15
+        }
+      ],
+      "other_notable_wines": ["Kydonitsa", "Chardonnay", "Viognier"],
+      "user_experience": {
+        "reaction": "My introduction to Agiorgitiko Rosés!",
+        "tasting_notes": "Lighter and similar in taste to the Rosé from Bizios of the same grape.",
+        "significance": "Gateway to understanding Agiorgitiko's versatility."
+      }
+    },
+    {
+      "id": "lazaridi_001",
+      "name": "Domaine Costa Lazaridi (Château Julia)",
+      "region": "Drama (Macedonia)",
+      "sub_region": "Adriani",
+      "country": "Greece",
+      "founded": 1979,
+      "website": "https://www.domaine-lazaridi.gr",
+      "description": "One of Greece's most celebrated family wineries. First to plant Assyrtiko in Drama. Over 200 hectares—one of the biggest private linear vineyards in Greece. Certified Regenerative by A Greener World.",
+      "philosophy": "Regenerative viticulture. 'Winemakers who work in harmony with the land, crafting wines that respect and reflect the place they come from.'",
+      "founder": "Costa Lazaridi",
+      "current_generation": {
+        "george_lazaridis": "Winemaker, oversees viticulture, leads regenerative initiative",
+        "gerasimos_lazaridis": "Business strategy, CSR programs"
+      },
+      "certification": {
+        "regenerative": "Certified Regenerative by A Greener World (AGW)"
+      },
+      "vineyard_info": {
+        "total_hectares": 200,
+        "altitude_meters": [200, 300],
+        "location": "Slopes of Adriani, Drama, bordered by Natura 2000 zones",
+        "soil_type": "Alkaline clay",
+        "climate": "Continental",
+        "varietals_greek": ["Assyrtiko", "Agiorgitiko", "Malagousia", "Xinomavro"],
+        "varietals_international": ["Cabernet Sauvignon", "Chardonnay", "Pinot Noir", "Merlot", "Syrah", "Semillon"]
+      },
+      "wines": [
+        {
+          "wine_id": "lazaridi_julia_assyrtiko",
+          "name": "Château Julia Assyrtiko",
+          "type": "White",
+          "varietal": "Assyrtiko",
+          "varietal_percentage": 100,
+          "classification": "PGI Drama",
+          "description": "First Assyrtiko planted in Drama by Costa Lazaridi—now integral to region's identity. Aegean personality with international character.",
+          "production_details": {
+            "fermentation": "Temperature-controlled stainless steel"
+          },
+          "tasting_profile": {
+            "color": "Bright pale yellow with green hues",
+            "aroma": ["Chamomile", "Lemon blossom", "Flint", "Grapefruit", "Pineapple", "Honeysuckle"],
+            "palate": ["Full", "Well-structured", "Persistent", "Rich yet lively"],
+            "finish": "Long with hints of lemon"
+          },
+          "critic_scores": {
+            "note": "Multiple Gold medals: Mundus Vini, Berliner Wein Trophy, Concours Mondial"
+          },
+          "price": {
+            "eur": 12,
+            "usd": 16
+          },
+          "aging_potential_years": [4, 5],
+          "food_pairings": ["Fried fish", "Yellow split peas", "Rabbit stew", "Omelettes"]
+        },
+        {
+          "wine_id": "lazaridi_julia_agiorgitiko",
+          "name": "Château Julia Agiorgitiko",
+          "type": "Red",
+          "varietal": "Agiorgitiko",
+          "varietal_percentage": 100,
+          "classification": "PGI Drama",
+          "description": "Twenty years of cultivation in Drama terroir with modern practices.",
+          "production_details": {
+            "oak_aging_months": 12,
+            "vessels": "French oak 500L, oak and concrete tanks"
+          },
+          "tasting_profile": {
+            "color": "Bright intense ruby",
+            "aroma": ["Strawberry", "Cherry", "Raspberry", "Blackberry", "Sweet spices"],
+            "palate": ["Ripe", "Refined", "Balanced acidity", "Velvety tannins"],
+            "finish": "Medium-lasting"
+          },
+          "aging_potential_years": [15, 20],
+          "food_pairings": ["Spaghetti Bolognese", "Moussaka", "Pizza", "Sausages", "Yellow cheese"]
+        }
+      ],
+      "other_notable_wines": ["Amethystos (flagship)", "Oenotria Land", "Domaine Costa Lazaridi range"],
+      "additional_products": ["Methexis distillate", "Idoniko Tsipouro", "Botanico balsamic", "Wine Museum in Attica"],
+      "user_experience": {
+        "context": "Unlike many of the other wineries, this is a rather large and commercial producer.",
+        "reaction": "Still, their Agiorgitiko rivals any high-end Rioja at a fraction of the price.",
+        "assyrtiko_notes": "Similar expression to Ligas—speaks of Northern Greece terroir. Less mineral than Santorini, more fruity and pungent.",
+        "thesis_fit": "Proves even larger producers in Greece deliver world-class value."
+      }
+    },
+    {
+      "id": "tetramythos_001",
+      "name": "Tetramythos Winery",
+      "region": "Peloponnese",
+      "sub_region": "Ano Diakopto, Aigialeia",
+      "country": "Greece",
+      "founded": 1999,
+      "website": "https://www.tetramythoswines.com",
+      "description": "Pioneer of natural winemaking in Greece. High-altitude organic vineyards (up to 1050m) on slopes of Mount Helmos/Aroania overlooking Gulf of Corinth. Known for reviving Mavro Kalavrytino from near extinction.",
+      "philosophy": "Minimal intervention, sense of place. Natural wines ('Natur' range) with spontaneous fermentation, no added sulfites, unfined, unfiltered. Harvested on flower days (whites) and fruit days (reds) per biodynamic calendar.",
+      "founders": {
+        "aristides_spanos": "Brother, co-owner",
+        "stathis_spanos": "Brother, co-owner",
+        "panagiotis_papagiannopoulos": "Winemaker—talented, highly inspired, native of the area"
+      },
+      "vineyard_info": {
+        "total_hectares": 14,
+        "altitude_range_meters": [450, 1050],
+        "exposure": "North-facing (cool climate)",
+        "soil_type": "Limestone (whites), clay with limestone bedrock (reds)",
+        "climate": "Mediterranean mitigated by Gulf of Corinth breezes. Among coolest mesoclimates in Greece.",
+        "farming": "Organic since 2004, biodynamic practices",
+        "training": "Traditional bush vines, dry-farmed"
+      },
+      "varietals": ["Roditis", "Mavro Kalavrytino", "Agiorgitiko", "Malagousia", "Muscat", "Cabernet Sauvignon", "Merlot", "Sauvignon Blanc", "Chardonnay"],
+      "production_style": {
+        "juice": "Free-run only",
+        "fermentation": "Spontaneous with indigenous yeasts",
+        "sulfur": "Minimal or zero in Natur range",
+        "filtration": "None (Natur range)",
+        "vessels": ["Stainless steel", "Large oak tanks", "Greek amphorae (for Retsina)"]
+      },
+      "wines": [
+        {
+          "wine_id": "tetramythos_volitsa",
+          "name": "Volitsa Natur",
+          "type": "Red",
+          "varietal": "Volitsa",
+          "varietal_percentage": 100,
+          "classification": "PGI Peloponnese, Natural Wine",
+          "description": "Ultra-rare indigenous grape found via a local shepherd. One of the most unexplored Greek varieties, found only in highland Peloponnese vineyards.",
+          "production_details": {
+            "fermentation": "Spontaneous",
+            "sulfur": "Minimal (Natur range)",
+            "filtration": "None"
+          },
+          "tasting_profile": {
+            "color": "Light red",
+            "aroma": ["Cherry", "Raspberry", "White pepper", "Plum", "Green hints"],
+            "palate": ["Sappy", "Great energy", "Peppery", "Mineral"],
+            "body": "Light",
+            "character": "Freshness and focus"
+          },
+          "critic_scores": {
+            "wineanorak": "95 points - 'Sappy with great energy. Light and peppery with some green hints. Such freshness and focus with cherry and raspberry. White pepper and plum. So lovely.'"
+          },
+          "price": {
+            "eur_estimated": 15
+          },
+          "user_experience": {
+            "reaction": "A rare grape, a light summer red that rivals some Burgundy.",
+            "tasting_notes": "Lighter than a Pinot, but with character, acidity and fruit forwardness that screams terroir. It's something you'll directly recognize as unique when you taste it.",
+            "thesis_fit": "Perfect example of 3 SOMS thesis: unknown grape, terroir-driven, rivals Burgundy at fraction of price."
+          }
+        },
+        {
+          "wine_id": "tetramythos_mavro_kalavrytino",
+          "name": "Mavro Kalavrytino",
+          "type": "Red",
+          "varietal": "Mavro Kalavrytino",
+          "varietal_percentage": 100,
+          "classification": "PGI Achaia/Peloponnese",
+          "description": "The only monovarietal wine from this rare variety. Grape single-handedly saved from extinction by Tetramythos. Name means 'Black of Kalavryta.'",
+          "production_details": {
+            "fermentation": "Spontaneous",
+            "oak_aging_months": 12,
+            "oak_type": "Large oak tanks"
+          },
+          "tasting_profile": {
+            "color": "Clear red (not black despite name)",
+            "aroma": ["Complex spicy", "Fresh herbs", "Ripe cherries", "Gooseberries", "Plums", "Pomegranate", "Black cherry", "Passionfruit", "Cinnamon"],
+            "palate": ["Smoky edge (Burgundian touch)", "Tobacco leaf", "Cocoa nibs", "Blood orange", "Dried cranberry"],
+            "tannins": "Delicate yet drying",
+            "body": "Medium",
+            "acidity": "Characteristic, peppery"
+          },
+          "critic_scores": {
+            "decanter_2022": "90 points - Burgundian touch, tobacco, cocoa, lingering spiciness"
+          },
+          "price": {
+            "eur_estimated": 12
+          },
+          "food_pairings": ["Lamb", "Steak", "Mushroom dishes"]
+        },
+        {
+          "wine_id": "tetramythos_malagousia",
+          "name": "Malagousia",
+          "type": "White",
+          "varietal": "Malagousia",
+          "varietal_percentage": 100,
+          "note": "Featured on Noble Rot London wine lists"
+        },
+        {
+          "wine_id": "tetramythos_retsina_natur",
+          "name": "Retsina Natur (Amphora)",
+          "type": "White/Retsina",
+          "varietal": "Roditis",
+          "description": "Made the traditional way—in Cretan amphorae, as done for thousands of years. One of the very few Retsinas that changes what you think Retsina can be.",
+          "note": "Featured on Noble Rot wine lists"
+        }
+      ],
+      "other_notable_wines": ["Roditis Natur", "Muscat Sec Nature", "Phelloe Natur", "Agiorgitiko"],
+      "visit_info": {
+        "visitors_per_year": 12000,
+        "location": "Ano Diakopto village, 5km from Diakofto on road to Kalavryta ski resort"
+      },
+      "user_experience": {
+        "reaction": "Pioneer of natural winemaking in Greece. The Volitsa is the standout.",
+        "volitsa_discovery": "A rare grape, a light summer red that rivals some Burgundy: lighter than a Pinot, but with character, acidity and fruit forwardness that screams terroir. Something you'll directly recognize as unique when you taste it.",
+        "thesis_fit": "Rare indigenous grapes saved from extinction, high altitude, natural winemaking, world-class results at Greek prices."
+      }
+    },
+    {
+      "id": "santo_001",
+      "name": "Santo Wines",
+      "region": "Santorini",
+      "sub_region": "Pyrgos (Caldera rim)",
+      "country": "Greece",
+      "founded": 1947,
+      "website": "https://santowines.gr",
+      "description": "Santorini's largest producer and only cooperative winery, representing 1,200+ grape farmers across the island. Founded as 'Santorini Vine & Wine Protection Fund' in 1911, reorganized 1947. State-of-the-art winery built 1992 on caldera rim with legendary sunset views.",
+      "philosophy": "Authentic Santorini wines of superior quality while respecting traditional vinification techniques and protecting the precious vineyards. Cooperative model supports island's farming families.",
+      "vineyard_info": {
+        "villages": ["Pyrgos", "Exo Gonia", "Faros Akrotiriou", "Imerovigli"],
+        "altitude_meters": 400,
+        "vine_age": "60-80 years",
+        "pruning": "Traditional kouloura (basket)",
+        "yield_kg_per_ha": 2000
+      },
+      "wines": [
+        {
+          "wine_id": "santo_assyrtiko",
+          "name": "Santorini Assyrtiko",
+          "type": "White",
+          "varietal": "Assyrtiko",
+          "varietal_percentage": 100,
+          "classification": "PDO Santorini",
+          "production_details": {
+            "skin_contact_hours": 6,
+            "fermentation_temp_c": 16,
+            "lees_aging_months": 14
+          },
+          "tasting_profile": {
+            "aroma": ["Sea breeze", "Citrus", "Stone fruit", "Mineral"],
+            "palate": ["Bone-dry", "Bright acidity", "Smoky", "Textural"],
+            "finish": "Long, food-begging"
+          },
+          "critic_scores": {
+            "wine_review_online": "90 points"
+          },
+          "price": {
+            "eur": 20,
+            "usd": 30
+          },
+          "production_volume": 80000,
+          "note": "Entry-level Santorini Assyrtiko—'Assyrtiko on training wheels' but solid introduction to the grape"
+        }
+      ],
+      "other_notable_wines": ["Vinsanto (sweet)", "Nykteri", "Grande Reserve"],
+      "visit_info": {
+        "experience": "Stunning caldera views, sunset tastings, restaurant with food pairings",
+        "recognition": "Wine Enthusiast: Best place in Santorini to taste wine",
+        "note": "Most visited winery on island—come for view and introduction, visit boutique producers (Hatzidakis, Sigalas) for depth"
+      }
+    },
+    {
+      "id": "tselepos_001",
+      "name": "Domaine Tselepos",
+      "region": "Peloponnese",
+      "sub_region": "Mantinia, Arcadia",
+      "country": "Greece",
+      "founded": 1989,
+      "website": "https://tselepos.gr",
+      "description": "Pioneer of the Greek Wine Renaissance. Yiannis Tselepos rescued Moschofilero from oblivion by vinifying it as a mono-varietal, highlighting its unique characteristics. Studied oenology at University of Dijon in Burgundy. Also produces Agiorgitiko (Nemea) and Assyrtiko (Santorini).",
+      "philosophy": "'A grape does not come to you, you must go to it.' Holistic approach to winemaking—small chapel to Saint Tryphon (patron saint of winemakers) sits at highest point of vineyard.",
+      "founder": {
+        "yiannis_tselepos": "Born 1955 in Paphos, Cyprus. Studied oenology at Dijon. Moved to Arcadia 1981. Founded winery with wife Amalia 1989."
+      },
+      "vineyard_info": {
+        "mantinia_altitude_meters": 750,
+        "villages": ["Rizes", "Lithovounia", "Agiorgitika"],
+        "climate": "Continental—late ripening, preserves acidity and aroma",
+        "total_hectares": 50
+      },
+      "wines": [
+        {
+          "wine_id": "tselepos_mantinia",
+          "name": "Mantinia",
+          "type": "White",
+          "varietal": "Moschofilero",
+          "varietal_percentage": 100,
+          "classification": "PDO Mantinia",
+          "description": "Flagship wine. Blanc de gris (white from pink/grey grapes). The variety Tselepos rescued from oblivion.",
+          "production_details": {
+            "pre_fermentation_extraction_hours": 8,
+            "fermentation_temp_c": 12
+          },
+          "tasting_profile": {
+            "color": "Pale with green hues",
+            "aroma": ["Rose", "Violet", "Turkish delight (loukoum)", "Citrus", "Exotic tropical fruits", "Spices"],
+            "palate": ["Exceptional freshness", "High acidity", "Citrus", "Lemon flowers", "Melon"],
+            "body": "Medium",
+            "finish": "Crisp, clean, strong aftertaste"
+          },
+          "critic_scores": {
+            "note": "Top 5 Mantinia wines. Gold/Double Gold at Balkan International Wine Competition"
+          },
+          "price": {
+            "eur": 12,
+            "usd": 15
+          },
+          "food_pairings": ["Dolmades with egg-lemon sauce", "Tuna tataki", "Sushi", "Green salads", "Feta cheese"]
+        },
+        {
+          "wine_id": "tselepos_amalia_brut",
+          "name": "Amalia Brut",
+          "type": "Sparkling",
+          "varietal": "Moschofilero",
+          "classification": "Traditional Method",
+          "description": "Named after wife Amalia. First traditional method sparkling from Moschofilero grapes in Greece."
+        }
+      ],
+      "other_notable_wines": ["Kokkinomylos (Agiorgitiko)", "Canava Chryssou (Santorini Assyrtiko)", "Amalia Rosé (sparkling)"],
+      "recognition": "Pioneer of Greek Wine Renaissance. Closely associated with Moschofilero's rise to prominence."
+    },
+    {
+      "id": "papargiriou_001",
+      "name": "Ktima Papargiriou",
+      "region": "Corinthia (Peloponnese)",
+      "sub_region": "Nemea area",
+      "country": "Greece",
+      "description": "Small family estate known for elegant, terroir-driven wines. Focus on indigenous varieties with minimal intervention approach.",
+      "wines": [
+        {
+          "wine_id": "papargiriou_assyrtiko",
+          "name": "Assyrtiko",
+          "type": "White",
+          "varietal": "Assyrtiko"
+        }
+      ],
+      "note": "Part of founder's tasting journey—mentioned in context document"
+    },
+    {
+      "id": "roussos_001",
+      "name": "Roussos Winery",
+      "region": "Santorini",
+      "country": "Greece",
+      "description": "Historic Santorini producer. Traditional approach to volcanic wines.",
+      "wines": [
+        {
+          "wine_id": "roussos_assyrtiko",
+          "name": "Assyrtiko",
+          "type": "White",
+          "varietal": "Assyrtiko"
+        }
+      ],
+      "note": "Part of founder's Santorini tasting exploration"
+    },
+    {
+      "id": "grampas_001",
+      "name": "Grampas Winery",
+      "region": "Zakynthos (Ionian Islands)",
+      "country": "Greece",
+      "description": "Specialist in Verdea—traditional oxidative wine style unique to Zakynthos. Historic style dating back centuries.",
+      "wines": [
+        {
+          "wine_id": "grampas_verdea",
+          "name": "Verdea",
+          "type": "White (oxidative)",
+          "description": "Traditional Zakynthian style. Oxidative, amber-colored, complex. Made from local varieties using ancestral methods."
+        }
+      ],
+      "note": "Unique regional style—Verdea is to Zakynthos what Vinsanto is to Santorini"
+    }
+  ],
+  "thesis_summary": {
+    "what_these_wines_prove": [
+      "150-year-old vines on volcanic terroir (Papas) = transcendent wine for €100 vs €150-240 Burgundy equivalent",
+      "First single-vineyard Assyrtiko (Kavalieros) = pioneering terroir expression for €100",
+      "Rescued extinct grape (Mouhtaro) = unique character nobody outside Greece knows",
+      "Organic, high-altitude, old-vine reds (Bizios) = world-class quality at €17"
+    ],
+    "market_inefficiency": "Greek wines of world-class quality selling at 50-70% cheaper than equivalent Burgundy, Napa, or Tuscany. Not because they're inferior—because Greece hasn't entered global fine wine consciousness yet.",
+    "timing": "Pre-discovery. 5 years before mainstream market awakening. Prices will move 2-3x."
+  }
+}
